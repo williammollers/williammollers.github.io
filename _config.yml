@@ -1,7 +1,7 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://timmygee.github.io'
+title: William Mollers
+description: 'Berliner, Sydneysider, Tour Guide, Tech fan and football enthusiast'
+url: 'https://williammollers.github.io/'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
@@ -11,7 +11,7 @@ author:
   email: hi@williammollers.com
   twitter_username: williammollers
   facebook_username:
-  github_username:  joshgerdes
+  github_username:  williammollers
   linkedin_username:  williammollers
 
 defaults:
