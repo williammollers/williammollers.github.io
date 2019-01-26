@@ -11,4 +11,5 @@ The wonderful thing about Berlin is it’s incredibly complicated history mixed 
 
 One of my favourite routes to cycle is the ‘Mauerweg’ or the entire length of the Berlin Wall, something I do frequently and find an exhilarating way to experience the city’s history.
 
-I've also become enamoured with Berlin's thriving tech scene and am actively exploring a role in this world. 
+I've also become enamoured with Berlin's thriving tech scene and am keen on jumping into Berlin's tech scene.
+ 
