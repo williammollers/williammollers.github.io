@@ -7,19 +7,38 @@ I’m William, a Berliner with Australian and German roots who grew up in Sydney
 
 I am a highly analytical with great people skills who is currently looking for a role as a data scientist / analyst.
 
-Recently I have completed a bootcamp in data analytics at Ironhack Berlin where I have learnt the fundamentals of python, machine learning, sql, github, webscraping, tableau and broader analytical thinking.
+Recently I have completed a bootcamp in data analytics at Ironhack Berlin where I have learnt the following fundamentals:
+
+* python
+* machine learning
+* sql
+* github
+* webscraping
+* tableau
+* analytical thinking
 
 Prior to the bootcamp I worked for over 7 years in the tourism sector, with 4 years as a founder of When in Berlin and 7 years as a tour guide guiding families, individuals as well as VIPs across Berlin and central Europe.
 
 My time in tourism has given me hard skills that can be broadly applied and include:
-business development, content marketing, community management, project management, business analysis, research, VR (we launched Berlin's first VR Tour) as well as Website design.
+
+* business development
+* content marketing
+* community management
+* project management
+* business analysis
+* research
+* VR (we launched Berlin's first VR Tour)
 
 Complimenting this, I have also nurtured a whole heap of social skills while in tourism:
-I can get comfortable with anyone, communicate across cultures, educate while also be entertaining, present to groups of hundreds and keep staff smiling while they run an event or project.
+
+* I can get comfortable with anyone
+* communicate across cultures
+* educate while also be entertaining
+* present to groups of hundreds
+* keep colleagues smiling while they run an event or project.
 
 In addition to this I have extensive customer service experience in a variety of industries (banking, higher education, nano tech & retail) as well as two degrees from the University of Sydney, one in Commerce (Accounting / Business Information Systems) and one in Arts (Germanic Studies).
 
-Language wise I am a native English speaker (I grew up in Sydney, Australia), but due to having a German father I grew up speaking German and can work in German (TestDaf C2 certified).
-I also possess a German passport (i.e. I can work anywhere in the EU).
+Language wise I am a native English speaker, but due to having a German father I grew up speaking German and can work in German (TestDaf C2 certified). I also possess a German passport (i.e. I can work anywhere in the EU).
 
 Lastly, I have a few big passions ( economics, food, football, gaming and politics) and if you would like to chat to me about them or anything else, then I look forward to your message!
