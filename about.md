@@ -5,10 +5,24 @@ permalink: /about/
 ---
 I’m William, a Berliner with Australian and German roots who grew up in Sydney.
 
-I relocated to Germany in 2009 to complete my degree in German Literature, History and Philosophy at the University of Cologne, and after graduating in 2011 promptly made my way to the big city.
+I am a highly analytical person with great people skills who is currently looking for a role as a data scientist / analyst.
 
-The wonderful thing about Berlin is it’s incredibly complicated history mixed with it’s dynamic present. I love to engage the city’s thriving craft beer, specialty coffee and food scenes, as well as explore the city’s older quarters, particularly by bicycle.
+Recently I have completed a bootcamp in data analytics at Ironhack Berlin where I have learnt the fundamentals of python, machine learning, sql, github, webscraping, tableau and broader analytical thinking. (see https://www.linkedin.com/in/williammollers/ for more details)
 
-One of my favourite routes to cycle is the ‘Mauerweg’ or the entire length of the Berlin Wall, something I do frequently and find an exhilarating way to experience the city’s history.
+Prior to the bootcamp I worked for over 7 years in the tourism sector, with 4 years as a founder of When in Berlin and 7 years as a tour guide guiding families, individuals as well as VIPs across Berlin and central Europe.
 
-I've also become enamoured with Berlin's thriving tech scene and am keen on delving more into it.
+My time in tourism has given me hard skills that can be broadly applied and include:
+business development, content marketing, community management, project management, business analysis, research, VR (we launched Berlin's first VR Tour) as well as Website design.
+
+Complimenting this, I have also nurtured a whole heap of social skills while in tourism:
+I can get comfortable with anyone, communicate across cultures, educate while also be entertaining, present to groups of hundreds and keep staff smiling while they run an event or project.
+
+In addition to this I have extensive customer service experience in a variety of industries (banking, higher education, nano tech & retail) as well as two degrees from the University of Sydney, one in Commerce (Accounting / Business Information Systems) and one in Arts (Germanic Studies).
+
+Language wise I am a native English speaker (I grew up in Sydney, Australia), but due to having a German father I grew up speaking German and can work in German (TestDaf C2 certified).
+I also possess a German passport (i.e. I can work anywhere in the EU).
+
+Lastly, I have a few big passions ( economics, food, football, gaming and politics) and if you would like to chat to me about them or anything else, then I look forward to your message!
+
+PS. If you have made it this far, thank you and have a great rest of your day!
+
