@@ -16,7 +16,7 @@ Recently I have completed a bootcamp in data analytics at Ironhack Berlin where 
 * github
 * webscraping
 * tableau
-* analytical thinking. 
+* analytical thinking
 
 Prior to the bootcamp I worked for over 7 years in the tourism sector, with 4 years as a founder of When in Berlin and 7 years as a tour guide guiding families, individuals as well as VIPs across Berlin and central Europe.
 
