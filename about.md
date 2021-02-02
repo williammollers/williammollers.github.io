@@ -23,6 +23,3 @@ Language wise I am a native English speaker (I grew up in Sydney, Australia), bu
 I also possess a German passport (i.e. I can work anywhere in the EU).
 
 Lastly, I have a few big passions ( economics, food, football, gaming and politics) and if you would like to chat to me about them or anything else, then I look forward to your message!
-
-PS. If you have made it this far, thank you and have a great rest of your day!
-
