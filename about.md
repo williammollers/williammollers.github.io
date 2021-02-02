@@ -5,7 +5,7 @@ permalink: /about/
 ---
 I’m William, a Berliner with Australian and German roots who grew up in Sydney.
 
-I am a highly analytical person with great people skills who is currently looking for a role as a data scientist / analyst.
+I am a highly analytical with great people skills who is currently looking for a role as a data scientist / analyst.
 
 Recently I have completed a bootcamp in data analytics at Ironhack Berlin where I have learnt the fundamentals of python, machine learning, sql, github, webscraping, tableau and broader analytical thinking. (see https://www.linkedin.com/in/williammollers/ for more details)
 
