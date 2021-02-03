@@ -44,4 +44,6 @@ Language wise I am a native English speaker, but due to having a German father I
 
 Lastly, I have a few big passions ( economics, food, football, gaming and politics) and if you would like to chat to me about them or anything else, then I look forward to your message!
 
-pdf_file: "/Users/williammollers/Desktop/JOB APPLICATIONS/CV /English/william_mollers_cv_english.pdf"
+pdf_file: "/Users/williammollers/Desktop/job_applications/CV/English/william_mollers_cv_english.pdf"
+
+ {% pdf "/Users/williammollers/Desktop/job_applications/CV/English/william_mollers_cv_english.pdf" %}
